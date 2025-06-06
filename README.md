@@ -1,11 +1,5 @@
 # Sprint1-2semestre API
-Link github
-
-RM98163 - Júlia Martins Santana Figueiredo
-RM550562 - Larissa Akemi Iwamoto
-RM98893 - Marcelo Henrique Góes da Costa Borgas
-RM98370 - Ricardo Brito Ponticelli Prieto
-RM94679 - Vinicios Becker Prediger
+RM94679 - Vinicius Becker Prediger
 
 Esta é uma API para gerenciamento de empresas e KPIs, desenvolvida em .NET Core com integração ao banco de dados Oracle. A aplicação foi construída utilizando princípios de arquitetura limpa, injeção de dependências e documentação via Swagger.
 
